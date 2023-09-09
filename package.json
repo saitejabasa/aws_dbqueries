@@ -7,7 +7,7 @@
     "start": "node getItem",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Saiteja",
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.409.0",
